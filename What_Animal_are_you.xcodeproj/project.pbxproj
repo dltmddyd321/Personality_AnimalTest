@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C54AD782694CB4A00835D05 /* QuestionData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C54AD772694CB4A00835D05 /* QuestionData.swift */; };
 		3C778D782693FC39007C4B35 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C778D772693FC39007C4B35 /* AppDelegate.swift */; };
 		3C778D7A2693FC39007C4B35 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C778D792693FC39007C4B35 /* SceneDelegate.swift */; };
 		3C778D7C2693FC39007C4B35 /* IntroductionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C778D7B2693FC39007C4B35 /* IntroductionViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3C54AD772694CB4A00835D05 /* QuestionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionData.swift; sourceTree = "<group>"; };
 		3C778D742693FC39007C4B35 /* What_Animal_are_you.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = What_Animal_are_you.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C778D772693FC39007C4B35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C778D792693FC39007C4B35 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				3C778D792693FC39007C4B35 /* SceneDelegate.swift */,
 				3C778D7B2693FC39007C4B35 /* IntroductionViewController.swift */,
 				3C778D7D2693FC39007C4B35 /* Main.storyboard */,
+				3C54AD772694CB4A00835D05 /* QuestionData.swift */,
 				3C778DAA2694006F007C4B35 /* QuestionViewController.swift */,
 				3C778DAC26940080007C4B35 /* ResultViewController.swift */,
 				3C778D832693FC39007C4B35 /* Assets.xcassets */,
@@ -270,6 +273,7 @@
 				3C778D822693FC39007C4B35 /* What_Animal_are_you.xcdatamodeld in Sources */,
 				3C778DAB2694006F007C4B35 /* QuestionViewController.swift in Sources */,
 				3C778D7C2693FC39007C4B35 /* IntroductionViewController.swift in Sources */,
+				3C54AD782694CB4A00835D05 /* QuestionData.swift in Sources */,
 				3C778D782693FC39007C4B35 /* AppDelegate.swift in Sources */,
 				3C778D7A2693FC39007C4B35 /* SceneDelegate.swift in Sources */,
 				3C778DAD26940080007C4B35 /* ResultViewController.swift in Sources */,
